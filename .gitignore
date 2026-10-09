@@ -9,3 +9,13 @@ node_modules/
 !.env.example
 .DS_Store
 Thumbs.db
+
+# Nuxt
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+*.log
+.netlify

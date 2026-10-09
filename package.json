@@ -3,9 +3,28 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "obrazky:web": "node scripts/optimalizuj-obrazky.mjs"
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "obrazky:web": "node scripts/optimalizuj-obrazky.mjs",
+    "obrazky:upload": "node --env-file=.env scripts/nahraj-obrazky.mjs",
+    "import": "node --env-file=.env scripts/importuj-data.mjs",
+    "import:dry": "node scripts/importuj-data.mjs --dry"
   },
   "devDependencies": {
-    "sharp": "^0.35.5"
+    "@supabase/supabase-js": "^2.117.3",
+    "gray-matter": "^4.0.3",
+    "sharp": "^0.35.5",
+    "typescript": "~5.9.3",
+    "vue-tsc": "^3.3.12"
+  },
+  "dependencies": {
+    "@nuxtjs/supabase": "^2.0.10",
+    "marked": "^18.1.0",
+    "nuxt": "^4.6.0",
+    "vue": "^3.5.43",
+    "vue-router": "^5.4.0"
   }
 }

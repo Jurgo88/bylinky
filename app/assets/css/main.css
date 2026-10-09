@@ -1,0 +1,27 @@
+/* Základný vzhľad – dočasný, kým nebude hotový dizajn */
+:root {
+  --c-bg: #fbfaf6;
+  --c-text: #23291f;
+  --c-muted: #6b7064;
+  --c-accent: #4f6b2f;
+  --c-border: #e3e1d8;
+  --radius: 10px;
+  --max: 1160px;
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color: var(--c-text);
+  background: var(--c-bg);
+  line-height: 1.6;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: var(--c-accent); }
+img { max-width: 100%; height: auto; display: block; }
+.container { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
+.grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.muted { color: var(--c-muted); }
+.prose { max-width: 72ch; }
+.prose img { border-radius: var(--radius); margin: 1rem 0; }
+.btn {
+  display: inline-block; padding: 10px 18px; border-radius: var(--radius);
+  background: var(--c-accent); color: #fff; text-decoration: none; border: 0; cursor: pointer; font: inherit;
+}
