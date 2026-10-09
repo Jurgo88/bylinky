@@ -1,0 +1,11 @@
+{
+  "name": "bylinky",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "obrazky:web": "node scripts/optimalizuj-obrazky.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

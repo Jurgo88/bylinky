@@ -1,0 +1,75 @@
+{
+  "footer_md": "## Bylinky spod Tatier\nPrírodná medicína spod Tatier. Predaj bylín, štiav, tinktúr, olejov, mydiel, mastí...\n\n## INFORMÁCIE\n[Doprava](/kopia-ochrana-osobnych-udajov/) [Obchodné podmienky](/obchodne-podmienky/) [Ochrana osobných údajov](/ochrana-osobnych-udajov/)\n\n## OBCHOD\n[O nás](/o-nas/)\n[Kontakt](/kontakt/)\n\n## RÝCHLY KONTAKT\nbylinkyspodtatier@gmail.com\n+421 903 177 775\n\n[Cookies](#)\n",
+  "contact": {
+    "email": "bylinkyspodtatier@gmail.com",
+    "phone": "+421 903 177 775",
+    "facebook": "https://www.facebook.com/www.bylinkyspodtatier.sk",
+    "instagram": "https://www.instagram.com/bylinkyspodtatier/"
+  },
+  "navigation": [
+    {
+      "name": "Novinky",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-dzemy/"
+    },
+    {
+      "name": "Šťavy",
+      "old_url": "https://www.bylinkyspodtatier.sk/obchod/caje/"
+    },
+    {
+      "name": "Müsli",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-knihy/"
+    },
+    {
+      "name": "Vitamínové shoty",
+      "old_url": "https://www.bylinkyspodtatier.sk/obchod/cajove-doplnky/"
+    },
+    {
+      "name": "Bylinky",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-kremy/"
+    },
+    {
+      "name": "Smoothie",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-dzemy2/"
+    },
+    {
+      "name": "Plody",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-cajove-zmesy/"
+    },
+    {
+      "name": "Bylinné maste",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-oleje/"
+    },
+    {
+      "name": "Tinktúry",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-sirupy/"
+    },
+    {
+      "name": "Krémy",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-bylinne-maste/"
+    },
+    {
+      "name": "Ocenené produkty",
+      "old_url": "https://www.bylinkyspodtatier.sk/dzemy/"
+    },
+    {
+      "name": "Knihy",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-kremy2/"
+    },
+    {
+      "name": "Sezónne produkty",
+      "old_url": "https://www.bylinkyspodtatier.sk/sezonne-produkty/"
+    },
+    {
+      "name": "Oleje",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-tinktury/"
+    },
+    {
+      "name": "Tyčinky a bonbóny",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-novinky/"
+    },
+    {
+      "name": "Darčekové poukážky",
+      "old_url": "https://www.bylinkyspodtatier.sk/kopia-musli/"
+    }
+  ]
+}

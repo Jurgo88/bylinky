@@ -1,0 +1,11 @@
+# obrázky – originály (~490 MB) aj webové verzie sa negenerujú do gitu
+/obrazky/
+/obrazky-web/
+obrazky-chyby.txt
+
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
